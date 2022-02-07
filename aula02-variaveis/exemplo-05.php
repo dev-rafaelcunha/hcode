@@ -28,7 +28,6 @@
 
 function imprimir($nome)
 {
-   
     echo $nome;
     echo "<br>";
 }
